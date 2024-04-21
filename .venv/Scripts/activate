@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\Mata Kuliah\semester 6\web service\python project\.venv"
+VIRTUAL_ENV="C:\Users\annur\OneDrive - Microsoft365\Code\Python\CRUD-Using-SqlAlchemy\.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
